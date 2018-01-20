@@ -1,6 +1,10 @@
 ## 🚀 Introduction
 个人技术roadmap
-## 🎨 Front-end Roadmap
+## 🎨 Intro Roadmap
+![](https://github.com/jxu86/knowledge/raw/master/developer-roadmap/pic-file/intro.png)
+## 🎨 front-end Roadmap
 ![](https://github.com/jxu86/knowledge/raw/master/developer-roadmap/pic-file/frontend-map.png)
-## 🎨 back-end Roadmap
+## 🎨 Back-end Roadmap
 ![](https://github.com/jxu86/knowledge/raw/master/developer-roadmap/pic-file/backend-map.png)
+## 🎨 DevOps-end Roadmap
+![](https://github.com/jxu86/knowledge/raw/master/developer-roadmap/pic-file/frontend-map.png)
